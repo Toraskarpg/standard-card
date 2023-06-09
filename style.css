@@ -1,0 +1,50 @@
+
+
+.card-header{
+    background-color : #008C76FF;
+    
+}
+
+.card-header h3{
+    color: white;
+    text-align: center;
+}
+
+.card-footer{
+    background-color: #fffff;
+    height: 50px;
+}
+.card-content{
+    
+    text-align: center;
+    
+    
+}
+.card-content ul {
+    list-style: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+.card-content h4{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.fa fa-check{
+    color:#d63031 ;
+}
+.button{
+    border: 2px solid #000;
+    width: 380px;
+    border-radius: 8px;
+    font-size: 20px;
+    background-color:#008C76FF;
+    color: white;
+    height: 80px;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+
+ 
+
